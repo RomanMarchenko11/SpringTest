@@ -1,2 +1,5 @@
-package trip;public interface Music {
+package trip;
+
+public interface Music {
+    String getSong();
 }
